@@ -6,7 +6,7 @@
 
 Turning ideas into scalable web apps and data-driven solutions — one commit at a time.
 
-[![Potfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](my-portfolio-rho-lovat-77.vercel.appL)
+[![Potfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](my-portfolio-rho-lovat-77.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-bharath-40705332b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bharathmadhu953@gmail.com)
 
