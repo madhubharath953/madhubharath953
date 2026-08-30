@@ -1,27 +1,28 @@
 <div align="center">
 
-# Hi, I'm Madhu Bharath 👋
+# Hi there, I'm Madhu Bharath 👋
 
-### Full Stack Developer & AI/ML Enthusiast
+### Computer Science Student | Full Stack Developer | AI/ML Enthusiast
 
-Turning ideas into scalable web apps and data-driven solutions — one commit at a time.
+Building projects and learning every day 🚀
 
-[![Potfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](my-portfolio-rho-lovat-77.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-bharath-40705332b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bharathmadhu953@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-rho-lovat-77.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathmadhu953@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎓 About Me
 
-I'm a Computer Science Engineering student and aspiring **Full Stack Developer** with a strong interest in **AI/ML**. I enjoy building complete, production-style projects — from responsive frontends to ML-powered backends — and I'm always looking for ways to combine clean UI with data-driven intelligence.
+I'm a Computer Science student at **YOUR_COLLEGE_NAME**, pursuing my **YOUR_DEGREE** (Class of **YOUR_GRADUATION_YEAR**). I'm passionate about **Web Development**, **Full Stack Development**, **AI/ML**, and **Data Analytics** — I like learning concepts and then proving them to myself by building real projects.
 
-- 🔭 Currently building projects across web development and machine learning
-- 🌱 Deepening my skills in ML model deployment and data-driven applications
-- 🎯 Looking for opportunities in **Full Stack Development** and **AI/ML**
-- ⚡ Fun fact: I like turning half-finished ideas into fully deployed apps
+- 🎓 Studying **YOUR_DEGREE** at **YOUR_COLLEGE_NAME**
+- 💻 Focused on Full Stack Development and AI/ML
+- 🌱 Currently strengthening my machine learning and backend skills
+- 🎯 Looking for **internship opportunities** in Software Development, Full Stack, or AI/ML
+- ⚡ I learn best by building — every project below started as "let me try this"
 
 ---
 
@@ -48,11 +49,10 @@ I'm a Computer Science Engineering student and aspiring **Full Stack Developer**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI / ML & Data**
+**AI/ML & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 **Tools & Platforms**
@@ -62,44 +62,63 @@ I'm a Computer Science Engineering student and aspiring **Full Stack Developer**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🚌 Smart College Bus Tracking System
-Real-time bus tracking web app with maps/API integration for live location updates on a clean, web-based interface.
+A web-based system for real-time college bus tracking with maps/API integration for live location updates.
 `React` `Maps API` `Real-time Data`
 
 ### 📊 Sales Forecasting Dashboard
-An interactive dashboard combining data analysis and machine learning to predict sales trends, built with a full-stack ML pipeline.
-`React` `FastAPI` `scikit-learn` `Chart.js`
+An interactive dashboard that applies machine learning to historical data to predict sales trends.
+`React` `FastAPI` `scikit-learn` `Data Analysis`
 
 ### 🛒 E-Commerce Website
 A responsive e-commerce platform with product catalog, filtering, shopping UI, and backend authentication.
 `React` `Node.js` `MongoDB` `REST APIs`
 
 ### 🌾 Crop Recommendation System
-ML-powered system that analyzes soil parameters to predict optimal crops, served through a FastAPI backend with a React frontend.
+A machine learning model that recommends suitable crops based on soil parameters, served through a FastAPI backend with a React frontend.
 `Python` `Machine Learning` `FastAPI` `React`
 
 ### 🏛️ Welfare Scheme Analysis & Prediction
-A machine learning project analyzing welfare application data to identify rejection patterns and predict eligibility, with an explainable AI approach for transparency.
-`Python` `Machine Learning` `Explainable AI` `Data Analysis`
+A machine learning project analyzing welfare application data to identify rejection patterns and predict eligibility, using an explainable AI approach.
+`Python` `Machine Learning` `Explainable AI`
 
-> 🔗 More projects on my [pinned repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+> 🔗 See all projects in my [pinned repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
 | Role | Organization |
 |---|---|
-| Full Stack Development Intern | Liztech |
+| Full Stack Developer Intern | Liztech |
 | AI/ML Intern | Postulate |
-| Full Stack Development Intern | Digisailor |
-| Analytics (IBM Cognos Analytics) | — |
+| Full Stack Developer Intern | Digisailor |
+| Analytics Training — IBM Cognos Analytics | — |
+
+---
+
+## 🏆 Hackathons & Achievements
+
+*Coming soon — actively looking to participate in hackathons and add my achievements here.*
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning model deployment
+- Backend architecture with Node.js and FastAPI
+- Data structures & algorithms
+
+## 🎯 Goals
+
+- Land an internship in Software Development, Full Stack, or AI/ML
+- Contribute to open-source projects
+- Keep building and shipping complete, real-world projects
 
 ---
 
@@ -117,26 +136,6 @@ A machine learning project analyzing welfare application data to identify reject
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Machine Learning & Model Deployment
-- System Design fundamentals
-- Deepening backend architecture with Node.js/FastAPI
-
-## 🎯 Future Goals
-
-- Land a role as a Full Stack Developer or AI/ML Engineer
-- Contribute to open-source projects in the web/ML space
-- Build and ship a full end-to-end SaaS product
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-bharat
